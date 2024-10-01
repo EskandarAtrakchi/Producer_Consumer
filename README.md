@@ -35,7 +35,8 @@ In the **Producer-Consumer problem**, a producer generates data and places it in
 
 ## Code Explanation
 
-### Queue: The queue is defined as a LinkedList of integers, and it has a capacity of 5. It acts as the shared resource between the producer and consumer.
+### Queue: 
+The queue is defined as a LinkedList of integers, and it has a capacity of 5. It acts as the shared resource between the producer and consumer.
 
 ### Producer Class:
 The producer is responsible for adding items to the queue.
